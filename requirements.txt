@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: linux-64
-certifi==2018.4.16=py36_0
 click==6.7=py36h5253387_0
 flask==1.0.2=py36_1
 gunicorn==19.8.1=py36_0
