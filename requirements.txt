@@ -6,7 +6,6 @@ flask==1.0.2
 gunicorn==19.8.1
 itsdangerous==0.24
 jinja2==2.10
-libgcc-ng==7.2.0
 libstdcxx-ng==7.2.0
 markupsafe==1.0
 ncurses==6.1
