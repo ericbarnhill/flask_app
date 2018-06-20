@@ -17,3 +17,7 @@ flask-script==2.0.6
 flask-sqlalchemy==2.3.2
 psycopg2==2.7.5
 sqlalchemy==1.2.8
+nltk==3.2.5
+beautifulsoup4==4.6.0
+requests==2.19.1
+requests-oauthlib==0.8.0
